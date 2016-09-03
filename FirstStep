@@ -1,0 +1,9 @@
+namespace firsttime.lenny.Unity3D
+{
+ public class Demo
+ {
+ public static void WantToSay{
+   Debug.Log("First Step in GitHub is Very important to me")
+    }
+ }
+}
